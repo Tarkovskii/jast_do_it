@@ -1,0 +1,15 @@
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\bin\Debug\net6.0\Ex001_hello.exe
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\bin\Debug\net6.0\Ex001_hello.deps.json
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\bin\Debug\net6.0\Ex001_hello.runtimeconfig.json
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\bin\Debug\net6.0\Ex001_hello.dll
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\bin\Debug\net6.0\Ex001_hello.pdb
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.csproj.AssemblyReference.cache
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.AssemblyInfoInputs.cache
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.AssemblyInfo.cs
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.csproj.CoreCompileInputs.cache
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.dll
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\refint\Ex001_hello.dll
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.pdb
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\Ex001_hello.genruntimeconfig.cache
+C:\Users\tromb\Documents\repo\Exampes\Ex001_hello\obj\Debug\net6.0\ref\Ex001_hello.dll
